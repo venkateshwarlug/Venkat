@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90111" started-at="2019-07-25T17:38:06Z" finished-at="2019-07-25T17:39:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90111" started-at="2019-07-25T17:38:06Z" finished-at="2019-07-25T17:39:36Z">
+      <class name="Dframework.DFrameWork1">
+        <test-method status="PASS" signature="open()[pri:0, instance:Dframework.DFrameWork1@34340fab]" name="open" is-config="true" duration-ms="70384" started-at="2019-07-25T23:08:06Z" finished-at="2019-07-25T23:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="data()[pri:0, instance:Dframework.DFrameWork1@34340fab]" name="data" duration-ms="19673" started-at="2019-07-25T23:09:16Z" finished-at="2019-07-25T23:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+      </class> <!-- Dframework.DFrameWork1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
